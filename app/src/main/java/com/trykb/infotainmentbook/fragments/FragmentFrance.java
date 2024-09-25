@@ -16,38 +16,38 @@ import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 import com.trykb.infotainmentbook.R;
 
-public class FragmentUnitedKingdom extends Fragment {
+public class FragmentFrance extends Fragment {
 
-    public static FragmentUnitedKingdom newInstance()
+    public static FragmentFrance newInstance()
     {
-        return new FragmentUnitedKingdom();
+        return new FragmentFrance();
     }
 
-    private ImageView imageViewUnitedKingdom;
-    private ProgressBar progressBarUnitedKingdom;
+    private ImageView imageViewFrance;
+    private ProgressBar progressBarFrance;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
-        View view = inflater.inflate(R.layout.fragment_united_kingdom,container,false);
+        View view = inflater.inflate(R.layout.fragment_france,container,false);
 
-        imageViewUnitedKingdom = view.findViewById(R.id.imageViewUnitedKingdom);
-        progressBarUnitedKingdom = view.findViewById(R.id.progressBarUnitedKingdom);
+        imageViewFrance = view.findViewById(R.id.imageViewFrance);
+        progressBarFrance = view.findViewById(R.id.progressBarFrance);
 
-        Picasso.get().load("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/" +
-                "Flag_of_the_United_Kingdom_%281-2%29.svg/125px-Flag_of_the_United_Kingdom_%281-2%29.svg.png").
-                into(imageViewUnitedKingdom, new Callback() {
+        Picasso.get().load("https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/" +
+                        "Flag_of_France.svg/125px-Flag_of_France.svg.png").
+                into(imageViewFrance , new Callback() {
                     @Override
                     public void onSuccess() {
-                        progressBarUnitedKingdom.setVisibility(View.INVISIBLE);
+                        progressBarFrance.setVisibility(View.INVISIBLE);
                     }
 
                     @Override
                     public void onError(Exception e) {
 
                         Toast.makeText(getActivity(),e.getLocalizedMessage(),Toast.LENGTH_LONG).show();
-                        progressBarUnitedKingdom.setVisibility(View.INVISIBLE);
+                        progressBarFrance.setVisibility(View.INVISIBLE);
                     }
                 });
 

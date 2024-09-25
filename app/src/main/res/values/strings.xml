@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Infotainment Book</string>
 
-    <string name="united_kindom">
+    <string name="united_kingdom">
 
         <b>Capital</b>\t\t\t\t\t\t : London \n
         <b>Largest City</b>\t\t\t\t\t\t : London \n
@@ -18,6 +18,55 @@
 \n\n\t\t The United Kingdom is a constitutional monarchy and parliamentary democracy.The UK has three distinct jurisdictions: England and Wales, Scotland, and Northern Ireland.[33] Since 1999, Scotland, Wales and Northern Ireland have their own governments and parliaments which control various devolved matters. The UK is a developed country and has the world\'s sixth-largest economy by nominal gross domestic product (GDP). It is a nuclear state, and is ranked fourth globally in military expenditure.[35][36] The UK has been a permanent member of the UN Security Council since its first session in 1946. It is a member of the Commonwealth of Nations, Council of Europe, G7, OECD, NATO, Five Eyes, AUKUS and CPTPP. British influence can be observed in the legal and political systems of many of its former colonies, and British culture remains globally influential, particularly in language, literature, music and sport. English is the world\'s most widely spoken language and the third-most spoken native language
 
 
+    </string>
+
+    <string name="france">
+
+        <b>Capital</b>\t\t\t\t\t\t : Paris \n
+        <b>Largest City</b>\t\t\t\t\t\t : Paris \n
+        <b>National Language</b>\t : French \n
+        <b>Total Area</b>\t\t\t\t\t\t : 643,801 km2 \n
+        <b>Currency </b>\t\t\t\t\t\t : EUR \n\n
+
+        \t\t France, officially the French Republic, is a country located primarily in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its eighteen integral regions (five of which are overseas) span a combined area of 643,801 km2 (248,573 sq mi) and have a total population of 68.4 million as of January 2024. France is a semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre.
+\n\n\t\t Metropolitan France was settled during the Iron Age by Celtic tribes known as Gauls before Rome annexed the area in 51 BC, leading to a distinct Gallo-Roman culture. In the Early Middle Ages, the Franks formed the Kingdom of Francia, which became the heartland of the Carolingian Empire. The Treaty of Verdun of 843 partitioned the empire, with West Francia evolving into the Kingdom of France. In the High Middle Ages, France was a powerful but decentralized feudal kingdom, but from the mid-14th to the mid-15th centuries, France was plunged into a dynastic conflict with England known as the Hundred Years' War. In the 16th century, the French Renaissance saw culture flourish and a French colonial empire rise. Internally, France was dominated by the conflict with the House of Habsburg and the French Wars of Religion between Catholics and Huguenots. France was successful in the Thirty Years' War and further increased its influence during the reign of Louis XIV.
+
+\n\n\t\t The French Revolution of 1789 overthrew the Ancien Régime and produced the Declaration of the Rights of Man, which expresses the nation's ideals to this day. France reached its political and military zenith in the early 19th century under Napoleon Bonaparte, subjugating part of continental Europe and establishing the First French Empire. The collapse of the empire initiated a period of relative decline, in which France endured the Bourbon Restoration until the founding of the French Second Republic which was succeeded by the Second French Empire upon Napoleon III's takeover. His empire collapsed during the Franco-Prussian War in 1870. This led to the establishment of the Third French Republic, and subsequent decades saw a period of economic prosperity and cultural and scientific flourishing known as the Belle Époque. France was one of the major participants of World War I, from which it emerged victorious at great human and economic cost. It was among the Allies of World War II, but it surrendered and was occupied in 1940. Following its liberation in 1944, the short-lived Fourth Republic was established and later dissolved in the course of the defeat in the Algerian War. The current Fifth Republic was formed in 1958 by Charles de Gaulle. Algeria and most French colonies became independent in the 1960s, with the majority retaining close economic and military ties with France.
+
+\n\n\t\t France retains its centuries-long status as a global centre of art, science, and philosophy. It hosts the fourth-largest number of UNESCO World Heritage Sites and is the world's leading tourist destination, receiving 100 million foreign visitors in 2023.[15] France is a developed country with a high nominal per capita income globally, and its advanced economy ranks among the largest in the world. It is a great power, being one of the five permanent members of the United Nations Security Council and an official nuclear-weapon state. France is a founding and leading member of the European Union and the eurozone, as well as a member of the Group of Seven, North Atlantic Treaty Organization (NATO), Organisation for Economic Co-operation and Development (OECD), and Francophonie.
+
+
+    </string>
+
+
+    <string name="italy">
+
+        <b>Capital</b>\t\t\t\t\t\t : Rome \n
+        <b>Largest City</b>\t\t\t\t\t\t : Rome \n
+        <b>National Language</b>\t : Italian \n
+        <b>Total Area</b>\t\t\t\t\t\t : 301,340 km2\n
+        <b>Currency </b>\t\t\t\t\t\t : EUR \n\n
+
+        \t\t Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as islands, notably Sicily and Sardinia. Italy shares its borders with France, Switzerland, Austria, Slovenia and two enclaves: Vatican City and San Marino. It is the tenth-largest country in Europe by area, covering 301,340 km2 (116,350 sq mi), and third-most populous member state of the European Union, with a population of nearly 60 million. Its capital and largest city is Rome; other major urban areas include Milan, Naples, Turin, Florence, and Venice.
+
+\n\n\t\t In antiquity, Italy was home to numerous peoples; the city of Rome, founded as a Kingdom, became a Republic that conquered the Mediterranean world and ruled it for centuries as an Empire. With the spread of Christianity, Rome became the seat of the Catholic Church and the Papacy. During the Early Middle Ages, Italy experienced the fall of the Western Roman Empire and inward migration from Germanic tribes. By the 11th century, Italian city-states and maritime republics expanded, bringing renewed prosperity through commerce and laying the groundwork for modern capitalism. The Italian Renaissance flourished during the 15th and 16th centuries and spread to the rest of Europe. Italian explorers discovered new routes to the Far East and the New World, leading the European Age of Discovery. However, centuries of rivalry and infighting between city-states left the peninsula divided.During the 17th and 18th centuries, Italian economic importance waned significantly.
+
+\n\n\t\t  After centuries of political and territorial divisions, Italy was almost entirely unified in 1861, following wars of independence and the Expedition of the Thousand, establishing the Kingdom of Italy. From the late 19th to the early 20th century, Italy rapidly industrialized, mainly in the north, and acquired a colonial empire, while the south remained largely impoverished, fueling a large immigrant diaspora to the Americas. From 1915 to 1918, Italy took part in World War I with the Entente against the Central Powers. In 1922, the Italian fascist dictatorship was established. During World War II, Italy was first part of the Axis until its surrender to the Allied powers (1940–1943), then a co-belligerent of the Allies during the Italian resistance and the liberation of Italy (1943–1945). Following the war, the monarchy was replaced by a republic and the country enjoyed a strong recovery.
+
+\n\n\t\t  A developed country, Italy has the ninth-largest nominal GDP in the world, the second-largest manufacturing industry in Europe, and plays a significant role in regional and global economic, military, cultural, and diplomatic affairs. Italy is a founding and leading member of the European Union, and is part of numerous international institutions, including NATO, the G7 and G20, the Latin Union and the Union for the Mediterranean. As a cultural superpower, Italy has long been a renowned centre of art, music, literature, cuisine, fashion, science and technology, and the source of multiple inventions and discoveries. It has the world's highest number of World Heritage Sites , and is the fifth-most visited country.
+
+
+    </string>
+
+    <string name="taj_mahal">
+
+\t\t The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan (r. 1628–1658) to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+
+ \n\n\t\t Construction of the mausoleum was completed in 1648, but work continued on other phases of the project for another five years. The first ceremony held at the mausoleum was an observance by Shah Jahan, on 6 February 1643, of the 12th anniversary of the death of Mumtaz Mahal. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around ₹5 million, which in 2023 would be approximately ₹35 billion (US$77.8 million).
+
+\n\n\t\t The building complex incorporates the design traditions of Indo/-Islamic and Mughal architecture. It employs symmetrical constructions with the usage of various shapes and symbols. While the mausoleum is constructed of white marble inlaid with semi-precious stones, red sandstone was used for other buildings in the complex similar to the Mughal era buildings of the time. The construction project employed more than 20,000 workers and artisans under the guidance of a board of architects led by Ustad Ahmad Lahori, the emperor/'s court architect.
+
+\n\n\t\t The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being /"the jewel of Islamic art in India and one of the universally admired masterpieces of the world/'s heritage/". It is regarded as one of the best examples of Mughal architecture and a symbol of Indian history. The Taj Mahal is a major tourist attraction and attracts more than five million visitors a year. In 2007, it was declared a winner of the New 7 Wonders of the World initiative
     </string>
 
 </resources>
